@@ -3,9 +3,9 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "ds-template-project"
+name = "telecom-customer-churn"
 version = "0.1.0"
-description = "A reusable Data Science project template"
+description = "A Churn Prediction Project with end to end ML frameworks."
 authors = [{ name = "Satwik", email = "satwikboina@gmail.com" }]
 readme = "README.md"
 requires-python = ">=3.11"

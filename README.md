@@ -1,4 +1,4 @@
-# ds-template-project
+# TELECOM CUSTOMER CHURN PREDICTION PROJECT
 
 A reusable Data Science project template powered by `uv`.
 
@@ -28,7 +28,7 @@ uv run pytest
 ## Project Structure
 
 ```
-ds-template-project/
+telecom-customer-churn/
 ├── artifacts/        # Model outputs, reports, build artifacts
 ├── config/           # YAML/TOML/JSON config files
 ├── data/             # Raw and processed data (gitignored)
