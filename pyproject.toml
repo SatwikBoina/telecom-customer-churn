@@ -16,7 +16,7 @@ dependencies = [
     "pandas>=2.2.0",                  # Data manipulation
     "numpy>=1.26.0",                  # Numerical computing
     "pyarrow>=15.0.0",                # Parquet support
-
+    "openpyxl>=3.1.0",                # Excel file support
     # ── Visualisation ─────────────────────────────────
     "matplotlib>=3.8.0",              # Base plotting
     "seaborn>=0.13.0",                # Statistical plots
