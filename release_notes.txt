@@ -1,0 +1,13 @@
+# Release Notes
+
+## [0.1.0] - Initial Template Release
+
+### Added
+- Full project folder structure (artifacts, config, data, deploy, docs, logs, notebooks, resources, scripts, src, tests)
+- pyproject.toml with uv as package manager
+- .gitignore tailored for Python + Data Science projects
+- GitHub Actions CI pipeline
+- README with quickstart guide
+- Ubuntu + UTM compatible setup
+- Dockerfile base in deploy/
+- Setup script in scripts/setup.sh
