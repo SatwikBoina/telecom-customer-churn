@@ -8,6 +8,14 @@ A reusable Data Science project template powered by `uv`.
 - [uv](https://github.com/astral-sh/uv)
 - Ubuntu (UTM on Mac) or any Linux/Mac environment
 
+## Setup
+1. Copy the env template:
+cp config/.env.example .env
+
+2. Add your Kaggle credentials in `.env`:
+KAGGLE_USERNAME=your_username
+KAGGLE_KEY=your_api_keyß
+
 ## Quickstart
 
 ```bash
